@@ -1,0 +1,282 @@
+header {
+    background-color:rgb(49 49 49);
+    position:fixed;
+	height:120px;
+	width:100%;
+	margin:0px;
+    padding:0px;
+    text-align: center;
+	
+}
+
+nav {
+    background-color: #333;
+	list-style-type: none;
+    margin: O%;
+    padding:0;
+	position: relative;
+	right: 20px;
+	
+	
+}
+
+nav ul {
+    list-style-type: none;
+    margin:0px;
+    padding: 0px;
+    overflow: hidden;
+	top:30px;
+	float:right;
+	    box-sizing: border-box;
+	
+
+
+}
+
+nav li {
+    float:left;
+	list-style-type: none;
+    margin:0;
+    padding:0;
+	text-align:left;
+	
+	
+	
+}
+
+nav li a {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	top:68PX;
+	width:100%;
+	float: left;
+	
+	
+	
+	
+	
+}
+
+nav li a:hover {
+    background-color: #111;
+}
+
+/* Ajoutez d'autres styles au besoin */
+
+/* Styles pour le pied de page */
+footer {
+    background-color: #333;
+    color: white;
+}
+
+/* Styles pour les liens dans le pied de page */
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Styles pour le corps de la page */
+body {
+   font-family: 'Arial', sans-serif;
+   background-color:white;
+   opacity:0.9;
+   height:1000px;
+   margin: 0;
+   padding: 0;
+   top: 2000px;
+   background-position: center;
+	
+    
+}
+
+/* Styles pour les liens dans le corps de la page */
+body a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+body a:hover {
+    text-decoration: underline;
+	
+}
+
+.u1
+{
+	list-style-type: none;
+	position:left;
+	bottom:230px;
+	text-align: left;
+	color: white;
+	line-height: 1.5;
+}
+footer
+{
+	height: 270px;
+	position: absolute;
+	bottom:-669PX;
+	left:0px;
+	width:100%;
+	margin:0;
+	padding:0;
+	border-top: 3px solide rgb(49 49 49);
+	
+	
+	}
+	
+footer a
+{
+		color:white;
+}
+h1
+{
+	color:white;
+}
+
+nav li
+{
+	
+	}
+
+.u2
+{
+	float: right;
+	position:relative;
+	bottom:230px;
+	right:800px;
+	list-style-type:none;
+	
+
+}
+
+.u3
+{
+	float: right;
+	position:relative;
+	bottom:230px;
+	left:-250px;
+	list-style-type:none;
+	
+}
+
+.u4
+{
+	float: right;
+	position:relative;
+	bottom:230px;
+	left:400px;
+	list-style-type:none;
+	text-decoration:none;
+	
+}
+
+.p2
+{
+	color:white;
+	font-size:23px;
+}
+
+.p3
+{
+	color:white;
+	font-size:23px;
+}
+
+.p3
+{
+	color:white;
+	font-size:23px;
+}
+
+.p1
+{
+	color:white;
+	font-size:23px;
+}
+
+h1
+{
+	color:white;
+
+}
+
+div
+{
+	color:white;
+	float:right;
+	right:-300px;
+position: relative;
+}
+
+.u2 li
+{
+	
+	line-height: 1.5;
+}
+
+.u3 li
+{
+	
+	line-height: 1.5;
+}
+
+.u4 li
+{
+	
+	line-height: 1.5;
+}
+
+
+.im1
+{
+	
+	float:center-right;
+	right:500px;
+	top: 200px;
+	width:40%;
+	position:center;
+}
+
+ #carousel-container {
+            width: 40%; /* Ajustez la largeur du carrousel selon vos besoins */
+            overflow: hidden;
+            float: left;
+        }
+
+        #image-carousel {
+            display: flex;
+            transition: transform 1s ease-in-out;
+			float: left;
+        }
+
+        .carousel-image {
+            width: 40%;
+           min-width: 60%;
+            object-fit: cover;
+			float: left;
+        }
+
+        .arrow {
+            top: 50%;
+            transform: translateY(50%);
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+.ps{
+           text-align:center;
+        }
+	   
+	   
+img
+{
+	position:center;
+	width:30%;
+	right:300px;
+}
